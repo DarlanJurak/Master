@@ -1,0 +1,3 @@
+[submodule "Research/Publications/IROS2019_EnergyAware/EnergyAware"]
+	path = Research/Publications/IROS2019_EnergyAware/EnergyAware
+	url = https://github.com/Academic-Research/EnergyAware.git
